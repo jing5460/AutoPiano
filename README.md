@@ -16,7 +16,7 @@ AutoPiano支持键盘按键和鼠标点击播放，同时琴键上会有按键�
 
 > 体验地址： http://www.autopiano.cn
 
-> 项目地址： https://github.com/WarpPrism/AutoPiano
+> 原项目地址： https://github.com/WarpPrism/AutoPiano
 
 ## Dev Build & run 开发构建和运行
 
